@@ -20,6 +20,16 @@
       "sha256": "dbb13a518117c2b64a157fa32b9cbefd6387859d1eb9ba761dc6baf1665e9058",
       "url": "https://raw.githubusercontent.com/manhuynhduy/dk9_taihoadon-releases/main/dk9hoadon_v4.6.3_macos_arm.zip",
       "repo": "manhuynhduy/dk9_taihoadon"
+    },
+    "macos-intel": {
+      "file": "dk9hoadon_v4.6.3_macos_intel.zip",
+      "platform": "macos",
+      "version": "4.6.3",
+      "arch": "x86_64",
+      "size": 64792480,
+      "sha256": "027f8ea13caffc359600bbd006f5cd59e4f14683493269745df545d229e6fa47",
+      "url": "https://raw.githubusercontent.com/manhuynhduy/dk9_taihoadon-releases/main/dk9hoadon_v4.6.3_macos_intel.zip",
+      "repo": "manhuynhduy/dk9_taihoadon"
     }
   }
 }
