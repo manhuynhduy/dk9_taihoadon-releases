@@ -1,24 +1,24 @@
 {
-  "version": "4.6.29",
+  "version": "4.6.30",
   "platforms": {
     "windows": {
-      "file": "dk9hoadon_v4.6.29.exe.zip",
+      "file": "dk9hoadon_v4.6.30.exe.zip",
       "platform": "windows",
-      "version": "4.6.29",
+      "version": "4.6.30",
       "arch": "",
-      "size": 60207366,
-      "sha256": "b60a412e83386249ca85d018a593e446de1ce5a174ba0ec7e94024d407a53133",
-      "url": "https://raw.githubusercontent.com/manhuynhduy/dk9_taihoadon-releases/main/dk9hoadon_v4.6.29.exe.zip",
+      "size": 60229956,
+      "sha256": "1510b2da5c0f1025f67f6c276c93a860f96712f4f6149f4192bfabc239c6526b",
+      "url": "https://raw.githubusercontent.com/manhuynhduy/dk9_taihoadon-releases/main/dk9hoadon_v4.6.30.exe.zip",
       "repo": "manhuynhduy/dk9_taihoadon"
     },
     "macos-arm": {
-      "file": "dk9hoadon_v4.6.29_macos_arm.zip",
+      "file": "dk9hoadon_v4.6.30_macos_arm.zip",
       "platform": "macos",
-      "version": "4.6.29",
+      "version": "4.6.30",
       "arch": "arm64",
-      "size": 62547871,
-      "sha256": "e07b2d75a66cb6c46efc47fadd38e826a12482438d396833f7546bbae346f190",
-      "url": "https://raw.githubusercontent.com/manhuynhduy/dk9_taihoadon-releases/main/dk9hoadon_v4.6.29_macos_arm.zip",
+      "size": 62568882,
+      "sha256": "24211c983b02654415f5f9c0588ab0d8e301ed00aeed0f637daf2340440aec60",
+      "url": "https://raw.githubusercontent.com/manhuynhduy/dk9_taihoadon-releases/main/dk9hoadon_v4.6.30_macos_arm.zip",
       "repo": "manhuynhduy/dk9_taihoadon"
     }
   }
